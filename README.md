@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=justbukkit&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Minecraft%20Server%20Developer%20%7C%20Java%20Engineer&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=220&section=header&text=justbukkit&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Minecraft%20Server%20Developer%20%7C%20Java%20Engineer&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -47,4 +47,4 @@ public class JustBukkit extends MinecraftDeveloper {
     }
 }
 ```
-</div><!-- FOOTER WAVE --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%"/>
+</div><!-- FOOTER WAVE --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=100&section=footer" width="100%"/>
