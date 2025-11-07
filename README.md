@@ -46,3 +46,5 @@ public class JustBukkit extends MinecraftDeveloper {
         };
     }
 }
+```
+</div><!-- FOOTER WAVE --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%"/>
