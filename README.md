@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- HEADER SVG - POPRAWIONY -->
+<!-- HEADER SVG -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=justbukkit&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Minecraft%20Server%20Developer%20%7C%20Java%20Engineer&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
 
 <!-- TYPING SVG -->
